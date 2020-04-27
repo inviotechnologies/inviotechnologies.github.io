@@ -8,6 +8,9 @@
                Start Common Page style
 ################
 */
+.ftr{
+	color: #fff !important;
+}
 .black-bg {
   background-color: #fff;
 }
